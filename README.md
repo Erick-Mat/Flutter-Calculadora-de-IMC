@@ -1,6 +1,6 @@
 # Flutter-Calculadora-de-IMC
 
-### Aplicativo desenvolvido em flutter para carlcular o imc.
+### Aplicativo desenvolvido em flutter para calcular o imc.
 
 #### Funcionalidades: Botão de limpar campos de textos.
 
